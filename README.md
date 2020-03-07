@@ -4,12 +4,12 @@ Excel Homework Week 1
 ### Conditional formating cell"State"
 * using the "State" column to show success, failure,or cancelled campaign. 
 
-![ ](Image/stateFormatting.png)
+![state](image/stateFormatting.png)
 
 ### Conditional formating cell "Percent Funded"
 * using the "Percent Funded" comlumn using a three-color scale: 0 dark shade of red, transitional to green at 100, and blue at 200.
 
-![ ](Image/percentFormatting.png)
+![percent](image/percentFormatting.png)
 
 ### Pivot table by category 
 
@@ -19,7 +19,7 @@ Excel Homework Week 1
   * Cancelled
   * Currently live
   
-![ ](Image/category.png)  
+![category](image/category.png)  
 
 ### Pivot table by subcategory 
 
@@ -29,7 +29,7 @@ Excel Homework Week 1
   * Cancelled
   * Currently live
   
-![ ](Image/subcategory.png)  
+![subcategory](image/subcategory.png)  
 
 ### Pivot table by Category & Year
 
@@ -39,7 +39,7 @@ Excel Homework Week 1
   * Cancelled
   * Currently live
   
-![ ](Image/month.png)  
+![year](image/month.png)  
 
 MicroSoft Word document
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns? see attach.
