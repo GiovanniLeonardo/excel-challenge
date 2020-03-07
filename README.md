@@ -42,6 +42,6 @@ Excel Homework Week 1
 ![year](image/month.png)  
 
 MicroSoft Word document
-1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns? see attach.
-2. What are some limitations of this dataset? see attach
-3. What are some other possible tables and/or graphs that we could create? see attach
+1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns? [see attach](https://github.com/GiovanniLeonardo/excel-challenge/blob/master/Excel%20Challenge.docx).
+2. What are some limitations of this dataset? [see attach](https://github.com/GiovanniLeonardo/excel-challenge/blob/master/Excel%20Challenge.docx).
+3. What are some other possible tables and/or graphs that we could create? [see attach](https://github.com/GiovanniLeonardo/excel-challenge/blob/master/Excel%20Challenge.docx).
